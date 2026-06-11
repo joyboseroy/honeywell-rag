@@ -4,7 +4,7 @@ A metadata-first retrieval system for building automation that answers natural l
 
 Built as a demo to show that enterprise RAG does not require a single vector store. Each data source needs a different retrieval mechanism. This system unifies them behind a single query interface.
 
-**Core principle:** the index answers "which document?" — the document answers "what does it say?" — two different problems, two different mechanisms.
+**Core principle:** the index answers "which document?" The document answers "what does it say?" These are two different problems, with two different mechanisms.
 
 ---
 

@@ -1,8 +1,8 @@
-# Honeywell BA — Enterprise RAG System
+# Enterprise RAG System
 
 A metadata-first retrieval system for building automation that answers natural language questions across three incompatible data sources: PDF technical documentation, operational Excel files with cryptic column names, and live IoT sensor readings.
 
-Built as a demo for Honeywell Building Automation to show that enterprise RAG does not require a single vector store. Each data source needs a different retrieval mechanism. This system unifies them behind a single query interface.
+Built as a demo to show that enterprise RAG does not require a single vector store. Each data source needs a different retrieval mechanism. This system unifies them behind a single query interface.
 
 **Core principle:** the index answers "which document?" — the document answers "what does it say?" — two different problems, two different mechanisms.
 

@@ -120,8 +120,8 @@ honeywell-rag/
 
 ```bash
 # 1. Clone
-git clone https://github.com/joyboseroy/honeywell-ba-rag
-cd honeywell-ba-rag
+git clone https://github.com/joyboseroy/honeywell-rag
+cd honeywell-rag
 
 # 2. Install dependencies
 pip install -r requirements.txt --break-system-packages
